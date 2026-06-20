@@ -16,7 +16,7 @@ This project serves as a core learning initiative, reflecting my current foundat
 
 <table>
   <tr>
-    <td><img src="<img width="651" height="651" alt="Shila_Restaurants_Chain" src="https://github.com/user-attachments/assets/788a42b9-37f8-4027-80ea-bf92af0a3e1b" />" width="300"></td>
-    <td><img src="<img width="720" height="897" alt="Shila_Restaurant_Chain_Main" src="https://github.com/user-attachments/assets/84d6abbf-2ee6-4a83-8dd8-dc5e4e749422" />" width="300"></td>
+    <td><img src=""https://github.com/user-attachments/assets/0d771f14-09b3-45a8-85c2-5ced21a05ca3"" width="300"></td>
+    <td><img src=""https://github.com/user-attachments/assets/ca16107c-1958-4c92-a7cc-f6e06cedf22b"" width="300"></td>
   </tr>
 </table>
