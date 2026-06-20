@@ -12,4 +12,8 @@ An interactive, terminal-based ordering and automated billing script built with 
 
 This project serves as a core learning initiative, reflecting my current foundational Python skills. I view this as a dynamic, living project; its evolution—from this conceptual simulation toward a production-ready application—will progress alongside my growing technical expertise, with the ultimate goal of building complex, real-world professional systems.
 
+#### Shila Restaurants: The Conceptual Source
+
+<img width="651" height="651" alt="Shila_Restaurants_Chain" src="https://github.com/user-attachments/assets/f8794e70-db07-484c-95f4-b015de0e0c2e" />
+<img width="720" height="897" alt="Shila_Restaurant_Chain_Main" src="https://github.com/user-attachments/assets/671f53dd-3f67-473a-a543-d89996006e5b" />
 
