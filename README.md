@@ -14,9 +14,5 @@ This project serves as a core learning initiative, reflecting my current foundat
 
 #### Shila Restaurants: The Conceptual Source
 
-<table>
-  <tr>
-    <td><img src=""https://github.com/user-attachments/assets/0d771f14-09b3-45a8-85c2-5ced21a05ca3"" width="300"></td>
-    <td><img src=""https://github.com/user-attachments/assets/ca16107c-1958-4c92-a7cc-f6e06cedf22b"" width="300"></td>
-  </tr>
-</table>
+<img width="720" height="897" alt="Shila_Restaurant_Chain_Main" src="https://github.com/user-attachments/assets/0e9522c6-cdb8-4440-8396-b78c55972563" />
+<img width="651" height="651" alt="Shila_Restaurants_Chain" src="https://github.com/user-attachments/assets/e3311cd7-df7d-4c32-a4af-3b8cf95f4eea" />
