@@ -22,12 +22,12 @@ print("Mini-pizza🍕 | Stromboli🥖 | Fried-chicken🍗 | Burger🍔")
 print("Hot-sandwich🥪 | Pasteroni🍝 | Hotdog🌭 | Appetizer🍟")
 print("Drinks: Soda🥤 | Water💧")
 print("-" * 50)
-print("Guide: Type the food name to order.\nWhen you are done, simply type 'exit'")
+print("Guide: Type the food name to order.\nWhen you are done, simply type 'finish'")
 
 # Step 3: Order Selection Loop
 while True:
     order = input("💠Your Iteam:").lower().strip()
-    if order == "exit":
+    if order == "finish":
         break
 
 # Step 4: Check Menu Availability and Update Cart
