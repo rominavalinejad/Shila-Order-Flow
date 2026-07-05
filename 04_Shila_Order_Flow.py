@@ -53,11 +53,3 @@ print(f"🛍Total items ordered: {len(user_cart)}")
 print(f"💰Total Payable: {total_bill:,} Toman")
 print("-" * 50)
 print("\n✨ Thank you for choosing Shila! ✨")
-        
-        
-
-
-
-
-
-
